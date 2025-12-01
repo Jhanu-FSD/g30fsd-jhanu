@@ -1,16 +1,18 @@
 # Python 2 vs Python 3 by Varsha G30 - FSD
 
 ## 1. Print Usage
+
+Python 2: print works like a standalone statement.\
+Python 3: print() is a function, allowing parameters like sep, end, and file handling.
+
 ```python
-Python 2
+#Python 2
 print "Hi there"
 
 # Python 3
 print("Hi there")
 ```
 
-Python 2: print works like a standalone statement.\
-Python 3: print() is a function, allowing parameters like sep, end, and file handling.
 
 
 ## 2. Division Rules
